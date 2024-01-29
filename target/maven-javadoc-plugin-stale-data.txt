@@ -1,0 +1,48 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+-sourcepath
+'C:/Users/sacha/Documents/NetBeansProjects/Projet_WOE/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/sacha/Documents/NetBeansProjects/Projet_WOE/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Projet_WOE 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' 'C:/Users/sacha/Documents/NetBeansProjects/Projet_WOE/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'Projet_WOE 1.0-SNAPSHOT API'
+org.centrale.objet.WoE
+C:\Users\sacha\Documents\NetBeansProjects\Projet_WOE\src\main\java = 1697980680502
+C:\Users\sacha\Documents\NetBeansProjects\Projet_WOE\target\site\apidocs\allclasses-index.html = 1698438027783
+C:\Users\sacha\Documents\NetBeansProjects\Projet_WOE\target\site\apidocs\allclasses.html = 1698438027792
+C:\Users\sacha\Documents\NetBeansProjects\Projet_WOE\target\site\apidocs\allpackages-index.html = 1698438027785
+C:\Users\sacha\Documents\NetBeansProjects\Projet_WOE\target\site\apidocs\constant-values.html = 1698438027630
+C:\Users\sacha\Documents\NetBeansProjects\Projet_WOE\target\site\apidocs\deprecated-list.html = 1698438027790
+C:\Users\sacha\Documents\NetBeansProjects\Projet_WOE\target\site\apidocs\element-list = 1698438027612
+C:\Users\sacha\Documents\NetBeansProjects\Projet_WOE\target\site\apidocs\help-doc.html = 1698438027797
+C:\Users\sacha\Documents\NetBeansProjects\Projet_WOE\target\site\apidocs\index-all.html = 1698438027778
+C:\Users\sacha\Documents\NetBeansProjects\Projet_WOE\target\site\apidocs\index.html = 1698438027794
+C:\Users\sacha\Documents\NetBeansProjects\Projet_WOE\target\site\apidocs\jquery-ui.overrides.css = 1698438027822
+C:\Users\sacha\Documents\NetBeansProjects\Projet_WOE\target\site\apidocs\member-search-index.js = 1698438027774
+C:\Users\sacha\Documents\NetBeansProjects\Projet_WOE\target\site\apidocs\member-search-index.zip = 1698438027776
+C:\Users\sacha\Documents\NetBeansProjects\Projet_WOE\target\site\apidocs\overview-tree.html = 1698438027715
+C:\Users\sacha\Documents\NetBeansProjects\Projet_WOE\target\site\apidocs\package-search-index.js = 1698438027758
+C:\Users\sacha\Documents\NetBeansProjects\Projet_WOE\target\site\apidocs\package-search-index.zip = 1698438027770
+C:\Users\sacha\Documents\NetBeansProjects\Projet_WOE\target\site\apidocs\script.js = 1698438027803
+C:\Users\sacha\Documents\NetBeansProjects\Projet_WOE\target\site\apidocs\search.js = 1698438027805
+C:\Users\sacha\Documents\NetBeansProjects\Projet_WOE\target\site\apidocs\stylesheet.css = 1698438027802
+C:\Users\sacha\Documents\NetBeansProjects\Projet_WOE\target\site\apidocs\type-search-index.js = 1698438027771
+C:\Users\sacha\Documents\NetBeansProjects\Projet_WOE\target\site\apidocs\type-search-index.zip = 1698438027773

@@ -1,0 +1,48 @@
+Largeur 9
+Hauteur 9
+Guerrier Guerrier 171 52 21 66 76 1 8 7
+Guerrier Guerrier 193 64 23 78 76 1 8 8
+Guerrier Guerrier 194 45 19 90 33 1 3 7
+Guerrier Guerrier 178 41 18 71 74 1 4 8
+Guerrier Guerrier 171 42 14 69 22 1 5 2
+Guerrier Guerrier 185 50 23 74 57 1 1 3
+Guerrier Guerrier 197 68 24 69 79 1 5 3
+Guerrier Guerrier 185 54 24 71 53 1 7 5
+Archer Archer 21 7 10 100 51 4 4 6 10
+Archer Archer 27 18 13 69 37 6 2 7 10
+Archer Archer 28 24 21 68 60 6 8 3 7
+Archer Archer 38 22 11 72 84 5 3 8 10
+Archer Archer 33 23 16 64 64 6 0 7 8
+Paysan Paysan 46 61 23 75 83 1 4 3
+Paysan Paysan 43 66 24 95 65 1 7 1
+Paysan Paysan 35 69 13 73 42 1 5 5
+Loup 30 44 26 88 27 1 6 2
+Loup 41 51 18 75 89 1 2 1
+Loup 46 33 26 69 45 1 2 4
+Lapin 32 61 10 99 78 1 3 6
+Lapin 25 45 10 73 97 1 4 1
+Lapin 24 42 11 87 20 1 7 6
+Lapin 48 40 11 98 62 1 6 3
+Lapin 26 61 30 95 78 1 4 5
+NuageToxique NuageToxique 20 5 6 
+NuageToxique NuageToxique 20 1 4 
+NuageToxique NuageToxique 20 0 5 
+NuageToxique NuageToxique 20 8 5 
+NuageToxique NuageToxique 20 2 0 
+Epee EpeeBasique 0 6 8 0
+Epee EpeeBasique 0 1 2 0
+Epee EpeeBasique 0 0 1 0
+Epee EpeeBasique 0 6 6 0
+Epee EpeeBasique 0 3 2 0
+PotionSoin PotionSoin 20 7 2 
+PotionSoin PotionSoin 20 2 2 
+PotionSoin PotionSoin 20 1 7 
+PotionSoin PotionSoin 20 5 4 
+PotionSoin PotionSoin 20 0 2 
+TajinePoulet TajinePoulet 5 30 0 1 8
+TajinePoulet TajinePoulet 5 30 0 0 8
+TajinePoulet TajinePoulet 5 30 0 8 2
+ChampiVenimeux ChampignonPasSuspect 5 0 -20 0 0
+ChampiVenimeux ChampignonPasSuspect 5 0 -20 0 4
+ChampiVenimeux ChampignonPasSuspect 5 0 -20 8 1
+Joueur Guerrier acha 233 59 24 98 59 1 5 7

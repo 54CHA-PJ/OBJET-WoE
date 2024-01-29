@@ -1,0 +1,23 @@
+Largeur 25
+Hauteur 15
+Guerrier grosBill 250 10 8 80 60 1 8 3
+Archer robin 75 20 5 75 30 5 5 12 15
+Paysan peon 25 5 30 0 40 0 3 6
+Loup 30 80 50 50 1 1 19 3
+Lapin 4000 90 1 100 1 1 11 10
+TajinePoulet tajineBio 5 20 0 11 11
+Loup 80 75 30 45 5 1 2 13
+Loup 30 30 30 20 10 1 5 14
+Lapin 30 20 20 40 10 1 23 1
+NuageToxique nuageToxique 10 5 4
+Epee excalibur 50 3 12 18
+PotionSoin grandePotionDeSoin 100 4 3
+PotionSoin petitePotionDeSoin 25 18 11
+PotionSoin moyennePotionDeSoin 48 1 5
+ChampiVenimeux champiPasSuspect 5 -20 0 10 10
+Joueur Guerrier bob 150 10 9 90 70 1 12 12
+Inventaire PotionSoin moyennePotionDeSoin 75
+Inventaire Epee destructeur2000 125 2
+Inventaire TajinePoulet dinerPerime 5 2 0
+Inventaire PotionSoin petitePotionDeSoin 15 
+
